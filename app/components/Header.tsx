@@ -28,13 +28,13 @@ export default function Header() {
         <header className="flex justify-between items-center h-20 px-5 lg:px-10 bg-white shadow-md">
             {/* Logo */}
             <div>
-                <Image
-                    src="MyEduSpace.svg"
-                    alt="Logo"
-                    width={120}
-                    height={80}
-                    className="cursor-pointer"
-                />
+            <img 
+    src="MyEduSpace.svg" 
+    alt="Logo" 
+    width="120" 
+    height="80" 
+    class="cursor-pointer" 
+/>
             </div>
 
             {/* Desktop Menu */}
