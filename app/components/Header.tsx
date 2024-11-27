@@ -29,7 +29,7 @@ export default function Header() {
             {/* Logo */}
             <div>
                 <Image
-                    src="/MyEduSpace.svg"
+                    src="MyEduSpace.svg"
                     alt="Logo"
                     width={120}
                     height={80}
